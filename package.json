@@ -1,0 +1,22 @@
+{
+  "name": "firstfofozap",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": true,
+  "dependencies": {
+    "@discordjs/opus": "^0.1.0",
+    "colors": "^1.4.0",
+    "cpu-stat": "^2.0.1",
+    "discord.js": "^12.0.1",
+    "moment": "^2.25.3",
+    "moment-duration-format": "^2.3.2",
+    "ms": "^2.1.2",
+    "os": "^0.1.1",
+    "simple-youtube-api": "^5.1.1",
+    "ytdl-core": "^2.0.0",
+    "ytdl-core-discord": "amishshah/ytdl-core-discord"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
